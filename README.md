@@ -1,6 +1,3 @@
-<!-- Главное описание проекта -->
-<h2>Мой стек технологий</h2>
-
 <h3>🛠️ Языки и разметка</h3>
 <p>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML">
@@ -11,7 +8,7 @@
 
 <h3>🤖 Шаблонизация</h3>
 <p>
-  <img src="https://cdn.simpleicons.org/twig/8B9293" height="30" alt="Twig">
+  <img src="https://img.shields.io/badge/Twig-8B9293?logo=twig&logoColor=white" height="30" alt="Twig">
 </p>
 
 <h3>🌀 CMS и Backend</h3>
@@ -24,17 +21,20 @@
 <h3>🎨 Дизайн</h3>
 <p>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="Figma">
-  <img src="https://cdn.simpleicons.org/adobe/FF0000" height="30" alt="Adobe">
+  <img src="https://img.shields.io/badge/Adobe-red?logo=adobe&logoColor=white" height="30" alt="Adobe">
 </p>
 
 <h3>🛠️ Инструменты</h3>
 <p>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="VSCode">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" height="30" alt="VSCode">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git">
+  <img src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=white" height="30" alt="CMD">
+  <img src="https://cdn.simpleicons.org/linux/000000" height="30" alt="Linux">
 </p>
 
 <h3>📩 Связаться со мной</h3>
 <p>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/rubakaPL">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="30" alt="Telegram">
   </a>
 </p>
