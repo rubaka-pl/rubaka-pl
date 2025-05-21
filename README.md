@@ -11,7 +11,7 @@ Actively looking for a full-time position. Currently maintaining and supporting 
 
 <h3>🤖 Template engine</h3>
 <p>
-  <img src="https://img.shields.io/badge/Twig-8B9293?logo=twig&logoColor=white" height="30" alt="Twig">
+  <img src="https://user-images.githubusercontent.com/973783/46407973-3c5dbf80-c72e-11e8-947c-d1fdaaa28f73.png" height="30" alt="Twig">
 </p>
 
 <h3>🌀 CMS & Backend</h3>
